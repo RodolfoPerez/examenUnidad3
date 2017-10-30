@@ -2,6 +2,6 @@
 #include <conio.h>
 using namespace std;
 int main(){
- cout<<"holamundo";
+ cout<<"holamundo amigos queridos";
 getch();
 }
